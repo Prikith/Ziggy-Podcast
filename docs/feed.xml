@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="https://raw.githubusercontent.com/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Ziggy's Project Podcast</title>
  <description>Ziggy's Project Podcast</description>
- <link>https://www.youtube.com/watch?v=YNfimOWMK5c/link>
+ <link>https://www.youtube.com/watch?v=YNfimOWMK5c</link>
  <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/watch-this-space.rss" />
  <language>en-us</language>
  <image> <url>https://raw.githubusercontent.com/Prikith/Ziggy-Podcast/master/maxresdefault/1%23YNfimOWMK5c.jpg</url>
