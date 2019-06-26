@@ -25,7 +25,7 @@
  <guid isPermaLink="false">https://www.youtube.com/watch?v=YNfimOWMK5c</guid>
  <pubDate>Sun, 9 Mar 2019 13:00 EST</pubDate>
  <source url="https://raw.githubusercontent.com/Prikith/Ziggy-Podcast/master/ZiggyPP.rss">Ziggy's Project Podcast</source>
- <enclosure url="https://raw.githubusercontent.com/Prikith/Ziggy-Podcast/master/maxresdefault/1%23YNfimOWMK5c.jpg" type="image/jpeg" length="57548" />
+ <media:thumbnail url="https://raw.githubusercontent.com/Prikith/Ziggy-Podcast/master/maxresdefault/1%23YNfimOWMK5c.jpg" />
 </item>
 <item> <title>Ziggys Project Podcast #2 || FT. uhSnow, Kyle, MiltontPike1, Ashlynn, AvaGG</title>
  <link>https://www.youtube.com/watch?v=9eXrSS0JL1o</link>
@@ -34,7 +34,7 @@
  <guid isPermaLink="false">https://www.youtube.com/watch?v=9eXrSS0JL1o</guid>
  <pubDate>Sun, 16 Mar 2019 13:00 EST</pubDate>
  <source url="https://prikith.github.io/Ziggy-Podcast/feed.xml">Ziggy's Project Podcast</source>
- <enclosure url="https://raw.githubusercontent.com/Prikith/Ziggy-Podcast/master/maxresdefault/2%239eXrSS0JL1o.jpg" type="image/jpeg" length="57898" />
+ <media:thumbnail url="https://raw.githubusercontent.com/Prikith/Ziggy-Podcast/master/maxresdefault/2%239eXrSS0JL1o.jpg" />
 </item>
 </channel>
 </rss>
